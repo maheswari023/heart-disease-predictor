@@ -16,7 +16,7 @@ This project predicts the likelihood of heart disease in a person based on input
 ## 🚀 How to Run the Project
 
 ### 🔹 Step 1: Clone the Repository
--bash
+
 git clone https://github.com/your-username/heart-disease-predictor.git
 cd heart-disease-predictor
 
