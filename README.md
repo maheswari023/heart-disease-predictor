@@ -20,18 +20,18 @@ This project predicts the likelihood of heart disease in a person based on input
 git clone https://github.com/your-username/heart-disease-predictor.git
 cd heart-disease-predictor
 
-   🔹 Step 2: Install Required Libraries
--bash
+   🔹 Step 2: Install Required Libraries :-
+
   pip install -r requirements.txt
 
-  🔹 Step 3: Train the Model (Optional if pkl file exists)
--bash
+  🔹 Step 3: Train the Model (Optional if pkl file exists) :-
+
   python heart_model_train.py
 
-  🔹 Step 4: Launch the Streamlit App
--bash
+  🔹 Step 4: Launch the Streamlit App :-
+
 streamlit run heart_app.py
 
-Then go to:
+Then go to:-
 http://localhost:8501
 
